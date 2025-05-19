@@ -16,7 +16,7 @@ Ranking the four external factors, macroinfluencers are slightly better than sho
 <h2>Files</h2>
 <ul>
   <li><code>Slide Deck.pdf</code>: Slide deck used to present the research.</li>
-  <li><code>Simulation</code> folder: Contains the <code>Simulation.ipynb</code> file, which are the codes used to perform agent-based modeling.</li>
+  <li><code>Simulation.zip</code>: Contains the <code>Simulation.ipynb</code> file, which are the codes used to perform agent-based modeling.</li>
 </ul>
 
 <h2>Credits</h2>
